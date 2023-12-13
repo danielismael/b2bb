@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RedisConfiguration">
+    <option name="serverConfigurations">
+      <list>
+        <ServerConfiguration>
+          <option name="label" value="B2B" />
+          <option name="password" value="eYVX7EwVmmxKPCDmwMtyKVge8oLd2t81" />
+          <option name="sercurityInfo">
+            <SercurityInfo>
+              <option name="useSsl" value="true" />
+            </SercurityInfo>
+          </option>
+          <option name="serverUrl" value="127.0.0.1:6379" />
+          <option name="userName" value="" />
+        </ServerConfiguration>
+      </list>
+    </option>
+  </component>
+</project>
